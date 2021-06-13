@@ -1,0 +1,31 @@
+* { 
+    margin: 0;
+    height: 0;
+    /*border: red solid 1px;*/
+}
+body {
+    font-family: sans-serif;
+    background-color: #5A5A5A;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow-x: hidden;
+}
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+p {
+    text-align: center;
+    margin-top: 5%;
+}
+img {
+    margin-top: 8%;
+    margin-left: 40%;
+    width: 20%;
+    height: auto;
+    padding: 0;
+}
